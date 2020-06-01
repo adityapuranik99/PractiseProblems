@@ -78,10 +78,11 @@ class Recursion {
 
     static int max(int a, int b, int c) {
         int max = a;
-        if (b > a)
+        if (b > a) {
             max = b;
-        if (c > b)
-            max = c;
+            if (c > b)
+                max = c;
+        }
         if (c > a)
             max = c;
         return max;
