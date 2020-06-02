@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LeaderArray",
+            "request": "launch",
+            "mainClass": "Arrays.LeaderArray",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReverseArray",
             "request": "launch",
             "mainClass": "Arrays.ReverseArray",
