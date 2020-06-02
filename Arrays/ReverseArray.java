@@ -21,9 +21,7 @@ class ReverseArray {
     // To rotate an array from a given point d
     static void rotateArr(int[] arr, int d) {
         ReverseArr(arr, 0, d - 1);
-        System.out.println(" ");
         ReverseArr(arr, d, arr.length - 1);
-        System.out.println(" ");
         ReverseArr(arr, 0, arr.length - 1);
     }
 
