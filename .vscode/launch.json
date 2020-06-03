@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SpiralTraverse",
+            "request": "launch",
+            "mainClass": "MatricesPractise.SpiralTraverse",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintSnakeForm",
+            "request": "launch",
+            "mainClass": "MatricesPractise.PrintSnakeForm",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LeaderArray",
             "request": "launch",
             "mainClass": "Arrays.LeaderArray",
