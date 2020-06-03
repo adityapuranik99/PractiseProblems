@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TransposeMatrix",
+            "request": "launch",
+            "mainClass": "MatricesPractise.TransposeMatrix",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - searchSorted",
+            "request": "launch",
+            "mainClass": "MatricesPractise.searchSorted",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundaryTraversal",
+            "request": "launch",
+            "mainClass": "MatricesPractise.BoundaryTraversal",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SpiralTraverse",
             "request": "launch",
             "mainClass": "MatricesPractise.SpiralTraverse",
