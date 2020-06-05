@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MaxSum",
+            "request": "launch",
+            "mainClass": "Arrays.MaxSum",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TransposeMatrix",
             "request": "launch",
             "mainClass": "MatricesPractise.TransposeMatrix",
