@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - subarrayGivenSum",
+            "request": "launch",
+            "mainClass": "Arrays.subarrayGivenSum",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MaxSum",
             "request": "launch",
             "mainClass": "Arrays.MaxSum",
