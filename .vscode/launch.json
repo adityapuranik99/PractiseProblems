@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - findAnagrams",
+            "request": "launch",
+            "mainClass": "Arrays.findAnagrams",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - subarrayGivenSum",
             "request": "launch",
             "mainClass": "Arrays.subarrayGivenSum",
