@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - dutchFlag",
+            "request": "launch",
+            "mainClass": "Sorting.dutchFlag",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Segregate",
+            "request": "launch",
+            "mainClass": "Sorting.Segregate",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - countInv",
             "request": "launch",
             "mainClass": "Sorting.countInv",
