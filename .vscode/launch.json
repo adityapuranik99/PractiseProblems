@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - countInv",
+            "request": "launch",
+            "mainClass": "Sorting.countInv",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - heapSort",
+            "request": "launch",
+            "mainClass": "Sorting.heapSort",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - selectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.selectionSort",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.bubbleSort",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - insertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.insertionSort",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - findAnagrams",
             "request": "launch",
             "mainClass": "Arrays.findAnagrams",
