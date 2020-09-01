@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LongestCommonSubs",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.LongestCommonSubs",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeImplements",
+            "request": "launch",
+            "mainClass": "Trees.TreeImplements",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - happyNumber",
+            "request": "launch",
+            "mainClass": "InterviewWiseImportant.happyNumber",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maximumSumSubarray",
+            "request": "launch",
+            "mainClass": "InterviewWiseImportant.maximumSumSubarray",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cycleSort",
+            "request": "launch",
+            "mainClass": "Sorting.cycleSort",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Insertion",
+            "request": "launch",
+            "mainClass": "LinkedLists.Insertion",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DLL",
+            "request": "launch",
+            "mainClass": "LinkedLists.DLL",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Insertion",
+            "request": "launch",
+            "mainClass": "Insertion",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - countSort",
+            "request": "launch",
+            "mainClass": "Sorting.countSort",
+            "projectName": "PractiseProblems_b57463cc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - dutchFlag",
             "request": "launch",
             "mainClass": "Sorting.dutchFlag",

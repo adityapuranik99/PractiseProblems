@@ -1,7 +1,5 @@
 package QueueDeque;
 
-import java.util.Queue;
-
 public class Implementation {
     int size, cap, front;
     int[] arr;

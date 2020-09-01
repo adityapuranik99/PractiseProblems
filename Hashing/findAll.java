@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class findAll {
     static HashMap<Integer, Integer> mp = new HashMap<>();
 
-    public static void findAll() {
+    public static void findAllNos() {
         int num = 1, num2;
         ArrayList<Integer> al = new ArrayList<>();
         int j = 1;
