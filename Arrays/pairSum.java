@@ -13,7 +13,7 @@ class pairSum {
         int end = arr.length - 1;
         // Sorting the array since we need the numbers
         // not the indexes
-        arr = sort(arr, 0, end);
+        sort(arr, 0, end);
         while (start <= end) {
             int curr_sum = arr[start] + arr[end];
             if (curr_sum > sum) {

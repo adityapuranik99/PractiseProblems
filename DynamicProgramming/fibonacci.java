@@ -2,6 +2,8 @@ package DynamicProgramming;
 
 public class fibonacci {
 
+    int[] memo = new int[1000];
+
     int fib(int n) {
         if (memo[n] == -1) {
             int res = 0;

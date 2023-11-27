@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "minCoinChange_BottomUp",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.minCoinChange_BottomUp",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "minCoinChange",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.minCoinChange",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "minSteps_Bottom_Up",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.minSteps_Bottom_Up",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "minSteps",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.minSteps",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "friendsPairing",
+            "request": "launch",
+            "mainClass": "Arrays.friendsPairing",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "tilingProblem",
+            "request": "launch",
+            "mainClass": "Arrays.tilingProblem",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "Solution1",
+            "request": "launch",
+            "mainClass": "Arrays.Solution1",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Arrays.Solution",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LongestCommonSubs",
             "request": "launch",
             "mainClass": "DynamicProgramming.LongestCommonSubs",
