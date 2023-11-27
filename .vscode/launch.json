@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "wineSelling_BottomUp",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.wineSelling_BottomUp",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
             "name": "wineSelling",
             "request": "launch",
             "mainClass": "DynamicProgramming.wineSelling",
