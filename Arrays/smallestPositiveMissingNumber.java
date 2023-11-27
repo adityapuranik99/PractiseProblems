@@ -1,3 +1,5 @@
+package Arrays;
+
 class smallestPositive {
 
     static int missingNumber(int[] arr, int size) {

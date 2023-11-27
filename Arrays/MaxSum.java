@@ -5,6 +5,7 @@ class MaxSum {
         int[] arr = { 1, 3, 2, 4, 5, 2 };
         int k = 3;
         int n = arr.length;
+        System.out.println(n);
         System.out.print(maxSum(arr, n, k));
     }
 

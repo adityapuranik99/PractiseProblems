@@ -31,7 +31,7 @@ public class checkArraySortedAndRotated {
         boolean flag2 = true;
         for(int i = minIndex+1; i<n; i++)
         {
-            if(arr[i] < arr[i-1])
+            if(arr[i] < arr[i-1]);
         }
     }
 

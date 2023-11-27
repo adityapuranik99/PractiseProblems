@@ -52,6 +52,6 @@ public class infixToPostfix {
         while (!s.isEmpty()) {
             result += s.pop();
         }
-        return res;
+        return result;
     }
 }
