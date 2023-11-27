@@ -35,17 +35,17 @@ public class wineSelling_BottomUp {
         }
 
         
-        for (int k = 0; k < i; k++){
-            for (int l = 0; l < j; l++){
-                if (k < l){
-                    int a = ((n - (l + k)) * prices[k] )+ dp[k+1][l];
-                    int b = ((n - (l+k))* prices[l]) + dp[k][l-1];
+        for (int k = 0; k < dp.length; k++){
+            for (int l = 0; l < dp[k].length; l++){
+                if (k < l && (k != i ||  l !=j)){
+                    int a = ((n - (l - k)) * prices[k] )+ dp[k+1][l];
+                    int b = ((n - (l - k)) * prices[l]) + dp[k][l-1];
                     dp[k][l] = Math.max( a, b);
                 }
             }
         }
 
-        dp[i][j] = Math.max((prices[j] * dp[i][j-1]), (prices[i] * dp[i+1][j]));
+        dp[i][j] = Math.max((prices[j] + dp[i][j-1]), (prices[i] + dp[i+1][j]));
 
         return dp[i][j];
     }
