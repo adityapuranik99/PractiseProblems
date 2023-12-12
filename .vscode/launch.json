@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "frogJump_BottomUp",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.frogJump_BottomUp",
+            "projectName": "PractiseProblems_4c987f0f"
+        },
+        {
+            "type": "java",
             "name": "frogJump_AtCoder",
             "request": "launch",
             "mainClass": "DynamicProgramming.frogJump_AtCoder",
